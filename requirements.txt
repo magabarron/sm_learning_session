@@ -1,0 +1,9 @@
+sagemaker==2.24.0
+boto3==1.16.59
+pandas==1.2.1
+numpy==1.19.5
+bokeh==2.2.3
+xgboost==0.90
+smart_open==4.1.2
+s3path==0.2.205
+plotnine==0.7.1
